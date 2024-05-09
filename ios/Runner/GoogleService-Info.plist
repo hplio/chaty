@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC9StFAQuxW4YzGlQN3epJTD8nREP6a5lQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>521387601482</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chaty</string>
+	<key>PROJECT_ID</key>
+	<string>chaty-44145</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chaty-44145.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:521387601482:ios:f0e628a3e1e770e87e40b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://chaty-44145-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

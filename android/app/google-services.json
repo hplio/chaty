@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "521387601482",
+    "firebase_url": "https://chaty-44145-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chaty-44145",
+    "storage_bucket": "chaty-44145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521387601482:android:fafc3d5a97cc8bf57e40b3",
+        "android_client_info": {
+          "package_name": "com.example.chaty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KMF0UWSEs1Y0odEY0ll0HjVjNEz0l2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
